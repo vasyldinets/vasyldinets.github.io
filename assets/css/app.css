@@ -1873,7 +1873,7 @@ section {
   .ba-header .ba-header_info {
     position: relative;
     z-index: 2;
-    padding: 200px 0 160px; }
+    padding: 200px 0; }
     @media screen and (max-width: 320px) {
       .ba-header .ba-header_info {
         padding: 100px 0 60px; } }
