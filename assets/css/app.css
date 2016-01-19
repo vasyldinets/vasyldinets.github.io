@@ -1837,7 +1837,8 @@ section {
     background-color: #0a0a0a; }
   .ba-header:after {
     background: url("../img/header_back.jpg");
-    background-size: cover; }
+    background-size: cover;
+    background-position: center center;}
   .ba-header .header-has-background, .ba-header .header-top-background {
     background: #4c4c4c;
     background: -webkit-gradient(left top, right top, color-stop(0%, #4c4c4c), color-stop(12%, #595959), color-stop(19%, #666666), color-stop(34%, #474747), color-stop(44%, #2c2c2c), color-stop(45%, #2b2b2b), color-stop(61%, #1c1c1c), color-stop(67%, #111111), color-stop(89%, black), color-stop(92%, #050505), color-stop(100%, #131313));
